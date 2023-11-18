@@ -2,7 +2,7 @@
   "name": "mPlant-#659",
   "description": "NFT collection of MPlants",
   "external_url": "",
-  "image": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#659.png",
+  "image": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mplant-%23659.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -24,7 +24,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#659.png",
+        "uri": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mplant-%23659.png",
         "type": "image/png"
       }
     ],

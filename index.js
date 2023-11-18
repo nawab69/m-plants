@@ -9,9 +9,11 @@ const metadata = filenames.map(filename => {
   const filePath = path.join(metadataPath, filename)
   const fileContents = fs.readFileSync(filePath, 'utf8')
   const { name } = path.parse(filename)
+  // Replace # to %23 in uriName
+  const uriName = name.toLowerCase().replace('#', '%23')
   const { compiler, ...meta } = JSON.parse(fileContents)
-  meta.image = `https://raw.githubusercontent.com/nawab69/m-plants/main/images/${name}.png`
-  meta.properties.files[0].uri = `https://raw.githubusercontent.com/nawab69/m-plants/main/images/${name}.png`
+  meta.image = `https://raw.githubusercontent.com/nawab69/m-plants/main/images/${uriName}.png`
+  meta.properties.files[0].uri = `https://raw.githubusercontent.com/nawab69/m-plants/main/images/${uriName}.png`
   return { name, meta }
 })
 
