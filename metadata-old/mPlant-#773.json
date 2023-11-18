@@ -1,0 +1,35 @@
+{
+  "name": "mPlant-#773",
+  "description": "NFT collection of MPlants",
+  "external_url": "",
+  "image": "mplant-#773.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    },
+    {
+      "trait_type": "plant",
+      "value": "snake"
+    },
+    {
+      "trait_type": "pot",
+      "value": "bitpot"
+    },
+    {
+      "trait_type": "face",
+      "value": "angry"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "mplant-#773.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

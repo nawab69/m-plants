@@ -1,0 +1,35 @@
+{
+  "name": "mPlant-#67",
+  "description": "NFT collection of MPlants",
+  "external_url": "",
+  "image": "mplant-#67.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "midnight"
+    },
+    {
+      "trait_type": "plant",
+      "value": "sunflower"
+    },
+    {
+      "trait_type": "pot",
+      "value": "glass"
+    },
+    {
+      "trait_type": "face",
+      "value": "sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "mplant-#67.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

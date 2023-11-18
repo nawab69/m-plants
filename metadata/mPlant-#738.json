@@ -1,0 +1,34 @@
+{
+  "name": "mPlant-#738",
+  "description": "NFT collection of MPlants",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#738.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "mint"
+    },
+    {
+      "trait_type": "plant",
+      "value": "snake"
+    },
+    {
+      "trait_type": "pot",
+      "value": "bitpot"
+    },
+    {
+      "trait_type": "face",
+      "value": "sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#738.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

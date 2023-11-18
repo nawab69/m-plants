@@ -1,0 +1,35 @@
+{
+  "name": "mPlant-#501",
+  "description": "NFT collection of MPlants",
+  "external_url": "",
+  "image": "mplant-#501.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dream"
+    },
+    {
+      "trait_type": "plant",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "pot",
+      "value": "clay"
+    },
+    {
+      "trait_type": "face",
+      "value": "angry"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "mplant-#501.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

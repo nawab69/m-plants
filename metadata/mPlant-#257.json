@@ -1,0 +1,34 @@
+{
+  "name": "mPlant-#257",
+  "description": "NFT collection of MPlants",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#257.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "mint"
+    },
+    {
+      "trait_type": "plant",
+      "value": "eucaliptus"
+    },
+    {
+      "trait_type": "pot",
+      "value": "clay"
+    },
+    {
+      "trait_type": "face",
+      "value": "angry"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#257.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

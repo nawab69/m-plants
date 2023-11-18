@@ -1,0 +1,34 @@
+{
+  "name": "mPlant-#330",
+  "description": "NFT collection of MPlants",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#330.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "moon"
+    },
+    {
+      "trait_type": "plant",
+      "value": "sunflower"
+    },
+    {
+      "trait_type": "pot",
+      "value": "nursery"
+    },
+    {
+      "trait_type": "face",
+      "value": "angry"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nawab69/m-plants/main/images/mPlant-#330.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
